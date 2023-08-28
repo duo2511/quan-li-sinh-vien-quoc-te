@@ -1,0 +1,9 @@
+mongo:
+  timeout: 10
+  host: localhost
+  port: 27017
+  username: duo2511
+  password:25112001
+  database: test
+  authSource: admin
+
